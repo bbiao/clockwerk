@@ -2,7 +2,6 @@ package clockwerk
 
 import (
 	"context"
-	"fmt"
 	"sort"
 	"sync"
 	"time"
